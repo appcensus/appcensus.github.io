@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[iBeacons and Swift]]></title>
+  <title><![CDATA[Developing with Swift and iBeacons]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-08-16T23:01:42-05:00</updated>
+  <updated>2014-08-16T23:04:24-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
     <name><![CDATA[App Census]]></name>
