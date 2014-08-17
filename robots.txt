@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://wilsongis.github.io/sitemap.xml 
+Sitemap: http://appcens.us/sitemap.xml 
