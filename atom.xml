@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[App Census]]></title>
+  <title><![CDATA[iBeacons and Swift]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-08-16T22:54:15-05:00</updated>
+  <updated>2014-08-16T23:01:42-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
-    <name><![CDATA[iBeacons and Swift]]></name>
+    <name><![CDATA[App Census]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
