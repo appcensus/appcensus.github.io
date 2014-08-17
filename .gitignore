@@ -1,5 +1,7 @@
 .bundle
 .DS_Store
+*.sublime-project
+*.sublime-workspace
 .sass-cache
 .gist-cache
 .pygments-cache
