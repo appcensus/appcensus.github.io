@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Developing with Swift]]></title>
+  <link href="http://appcens.us/atom.xml" rel="self"/>
+  <link href="http://appcens.us/"/>
+  <updated>2014-08-16T23:04:57-05:00</updated>
+  <id>http://appcens.us/</id>
+  <author>
+    <name><![CDATA[App Census]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
