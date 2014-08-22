@@ -4,7 +4,7 @@
   <title><![CDATA[Developing with Swift]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-08-21T19:51:02-05:00</updated>
+  <updated>2014-08-21T20:53:22-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
     <name><![CDATA[App Census]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A New Beginning...]]></title>
+    <link href="http://appcens.us/blog/2014/08/21/a-neww-beginning-dot-dot-dot/"/>
+    <updated>2014-08-21T20:44:11-05:00</updated>
+    <id>http://appcens.us/blog/2014/08/21/a-neww-beginning-dot-dot-dot</id>
+    <content type="html"><![CDATA[<h3>A New Beginning&hellip;</h3>
+
+<p>Over the next couple of months we will begin exploring developing for the Internet of things. At the same time, I will be working to master blogging via Jekyll and sharpening my markdown skills. One of the first changes I am hoping for is a better way to remember how to do <a href="http://daringfireball.net/projects/markdown/syntax#link" title="Daring Fireball: Markdown Syntax Documentation">LINKS</a>.</p>
+]]></content>
+  </entry>
   
 </feed>
