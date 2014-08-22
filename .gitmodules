@@ -1,0 +1,6 @@
+[submodule ".themes/oscailte"]
+	path = .themes/oscailte
+	url = git@github.com:coogie/oscailte.git
+[submodule "sass/inuitcss"]
+	path = sass/inuitcss
+	url = git@github.com:csswizardry/inuit.css.git
