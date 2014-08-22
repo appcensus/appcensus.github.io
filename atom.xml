@@ -4,7 +4,7 @@
   <title><![CDATA[Developing with Swift]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-08-21T21:00:27-05:00</updated>
+  <updated>2014-08-21T21:48:22-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
     <name><![CDATA[App Census]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://appcens.us/blog/2014/08/21/---/"/>
+    <updated>2014-08-21T21:47:00-05:00</updated>
+    <id>http://appcens.us/blog/2014/08/21/---</id>
+    <content type="html"><![CDATA[<p>Test post</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A New Beginning...]]></title>
