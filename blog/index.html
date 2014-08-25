@@ -106,6 +106,22 @@
 </section>
 
 
+<section id="pinboard" class="aside-module grid__item one-whole lap-one-half">
+  <h1 class="title delta">
+    My Pinboard
+    <small class="pull-right">
+      <a class="btn" href="//pinboard.in/u:wilsongis" title="My Pinboard Bookmarks" target="_blank">
+        <i class="icon-external-link"></i>
+      </a>
+    </small>
+  </h1>
+  <ul class="divided" id="pinboard_linkroll">
+    <li class="loading">
+      <i class="icon-spinner icon-spin"></i>
+    </li>
+  </ul>
+</section>
+
 
 
 </div>
@@ -172,6 +188,18 @@
 
 
 
+
+<script>
+  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user = "wilsongis"; //id target for pinboard list
+  var pinboard_count = 3; //id target for pinboard list
+  (function(){
+    var pinboardInit = document.createElement('script');
+    pinboardInit.async = true;
+    pinboardInit.src = '/javascripts/pinboard.js';
+    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
+  })();
+</script>
 
 
 
