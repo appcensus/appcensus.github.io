@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Developing with Swift]]></title>
-  <link href="http://appcens.us/atom.xml" rel="self"/>
+  <title><![CDATA[Category: random | Developing with Swift]]></title>
+  <link href="http://appcens.us/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
   <updated>2014-08-30T21:19:16-05:00</updated>
   <id>http://appcens.us/</id>
@@ -43,17 +43,6 @@
 
 
 <p>The use I am most intested in is the idea of the connected home. I can see that the use of a beacon to make things happen as you arrive home is both interesting and exciting.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A New Beginning...]]></title>
-    <link href="http://appcens.us/blog/2014/08/21/a-new-beginning/"/>
-    <updated>2014-08-21T20:44:11-05:00</updated>
-    <id>http://appcens.us/blog/2014/08/21/a-new-beginning</id>
-    <content type="html"><![CDATA[<h3>A New Beginning&hellip;</h3>
-
-<p>Over the next couple of months we will begin exploring developing for the Internet of things. At the same time, I will be working to master blogging via Jekyll and sharpening my markdown skills. One of the first changes I am hoping for is a better way to remember how to do <a href="http://daringfireball.net/projects/markdown/syntax#link" title="Daring Fireball: Markdown Syntax Documentation">LINKS</a>.</p>
 ]]></content>
   </entry>
   
