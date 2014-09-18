@@ -4,7 +4,7 @@
   <title><![CDATA[Developing with Swift]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-08-30T21:19:16-05:00</updated>
+  <updated>2014-09-18T13:35:20-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
     <name><![CDATA[App Census]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Links for Swift and Parse]]></title>
+    <link href="http://appcens.us/blog/2014/09/13/links-for-swift-and-parse/"/>
+    <updated>2014-09-13T15:18:36-05:00</updated>
+    <id>http://appcens.us/blog/2014/09/13/links-for-swift-and-parse</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.parse.com/2014/06/06/building-apps-with-parse-and-swift/">http://blog.parse.com/2014/06/06/building-apps-with-parse-and-swift/</a>
+<a href="http://stackoverflow.com/questions/25726392/anyobject-is-not-identical-to-nsobject-anyobject">http://stackoverflow.com/questions/25726392/anyobject-is-not-identical-to-nsobject-anyobject</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Practical iBeacons]]></title>
