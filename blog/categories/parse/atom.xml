@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: parse, | Developing with Swift]]></title>
+  <link href="http://appcens.us/blog/categories/parse/atom.xml" rel="self"/>
+  <link href="http://appcens.us/"/>
+  <updated>2014-09-18T21:14:38-05:00</updated>
+  <id>http://appcens.us/</id>
+  <author>
+    <name><![CDATA[App Census]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Using Parse and and iBeacons]]></title>
+    <link href="http://appcens.us/blog/2014/09/18/using-parse-and-and-ibeacons/"/>
+    <updated>2014-09-18T20:58:59-05:00</updated>
+    <id>http://appcens.us/blog/2014/09/18/using-parse-and-and-ibeacons</id>
+    <content type="html"><![CDATA[<p>As we start on our demonstration iBeacons project, we realized that we were presented with a great opportunity to get familiar with <a href="https://parse.com" title="Parse">Parse</a>. Parse is a great service that provides the backend infrastructure for for apps. From the Parse website:</p>
+
+<blockquote><p><strong>Everything you need to create beautiful apps</strong></p>
+
+<p>Focus on creating a great user experience and forget complex infrastructure. Instantly add a powerful core, push notifications, and analytics to your app with Parse. With native SDKs for Android, iOS, JavaScript, Unity, and more, Parse has an SDK for everyone, whether you’re creating a desktop or mobile app.</p></blockquote>
+
+<p>We have used the Parse SDK in our iOS app (in Swift) and as part of a web dashboard developed in Javascript. As of right now, the <a href="https://github.com/appcensus/ibeacon-dashboard" title="appcensus/ibeacon-dashboard · GitHub">dashboard code</a> is avaiable on <a href="https://github.com/" title="GitHub · Build software better, together.">GitHub</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
