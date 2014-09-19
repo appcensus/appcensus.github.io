@@ -3,10 +3,7 @@ layout: post
 title: "Using Parse and and iBeacons"
 date: 2014-09-18 20:58:59 -0500
 comments: true
-categories: 
-	- programming
-	- parse
-	- node
+categories: programming, parse, node
 ---
 
 As we start on our demonstration iBeacons project, we realized that we were presented with a great opportunity to get familiar with [Parse](https://parse.com "Parse"). Parse is a great service that provides the backend infrastructure for for apps. From the Parse website:
