@@ -4,7 +4,7 @@
   <title><![CDATA[Developing with Swift]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-09-21T15:43:28-05:00</updated>
+  <updated>2014-10-04T18:40:34-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
     <name><![CDATA[App Census]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Moving...]]></title>
+    <link href="http://appcens.us/blog/2014/10/04/getting-moving-dot-dot-dot/"/>
+    <updated>2014-10-04T18:31:27-05:00</updated>
+    <id>http://appcens.us/blog/2014/10/04/getting-moving-dot-dot-dot</id>
+    <content type="html"><![CDATA[<h3>Getting Moving Again&hellip;</h3>
+
+<p>It has been a while since we have posted. Got back to getting the Parse integration going today. It still amazes me how easy parse is to use. If only I could pick up Swift as easily. I guess I am now paying for not learning Objective-C sooner.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Using Parse and and iBeacons]]></title>
