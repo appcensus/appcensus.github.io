@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://appcens.us/blog/2014/10/11/going-shopping/</loc>
+    <lastmod>2014-10-11T16:21:33-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://appcens.us/blog/2014/10/04/getting-moving-dot-dot-dot/</loc>
     <lastmod>2014-10-04T18:31:27-05:00</lastmod>
     <priority>0.8</priority>
@@ -35,28 +41,28 @@
   
   <url>
     <loc>http://appcens.us/blog/archives/</loc>
-    <lastmod>2014-10-04T18:40:34-05:00</lastmod>
+    <lastmod>2014-10-11T16:27:02-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://appcens.us/</loc>
-    <lastmod>2014-10-04T18:40:34-05:00</lastmod>
+    <lastmod>2014-10-11T16:27:02-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://appcens.us/blog/</loc>
-    <lastmod>2014-10-04T18:40:34-05:00</lastmod>
+    <lastmod>2014-10-11T16:27:02-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://appcens.us/links/</loc>
-    <lastmod>2014-10-04T18:40:34-05:00</lastmod>
+    <lastmod>2014-10-11T16:27:02-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

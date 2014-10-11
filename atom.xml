@@ -4,7 +4,7 @@
   <title><![CDATA[Developing with Swift]]></title>
   <link href="http://appcens.us/atom.xml" rel="self"/>
   <link href="http://appcens.us/"/>
-  <updated>2014-10-04T18:40:34-05:00</updated>
+  <updated>2014-10-11T16:27:02-05:00</updated>
   <id>http://appcens.us/</id>
   <author>
     <name><![CDATA[App Census]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Going Shopping]]></title>
+    <link href="http://appcens.us/blog/2014/10/11/going-shopping/"/>
+    <updated>2014-10-11T16:21:33-05:00</updated>
+    <id>http://appcens.us/blog/2014/10/11/going-shopping</id>
+    <content type="html"><![CDATA[<h3>Going Shopping on Alibaba</h3>
+
+<p>Over the past week or so I have been pricing iBeacons on Alibaba. Although I had heard of Alibaba in the past, I had never bothered to look it up. It amazes me all the various things you can find. I was able to find some sheaper iBeacons but I will need to buy in bulk. I am not sute I am ready to purchase 10000 beacons from a Chinese factory. Luckily, I do have the oportunity to order a sample batch from various factories for testing. I think I am going to go ahead and get some samples.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Getting Moving...]]></title>
